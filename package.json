@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/tahosook/smarthome/issues"
   },
-  "homepage": "https://github.com/tahosook/smarthome#readme"
+  "homepage": "https://github.com/tahosook/smarthome#readme",
+  "devDependencies": {
+    "typescript": "^2.6.1"
+  },
+  "dependencies": {
+    "@types/node": "^8.0.53"
+  }
 }
